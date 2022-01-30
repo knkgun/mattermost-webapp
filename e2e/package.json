@@ -43,7 +43,7 @@
     "pdf-parse": "1.1.1",
     "pg": "8.7.1",
     "recursive-readdir": "2.2.2",
-    "shelljs": "0.8.4",
+    "shelljs": "0.8.5",
     "timezones.json": "1.5.3",
     "uuid": "8.3.2",
     "yargs": "17.2.1"
